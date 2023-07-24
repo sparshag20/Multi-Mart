@@ -1,5 +1,5 @@
 {
-  "name": "e-shop-tutorial",
+  "name": "",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -11,7 +11,7 @@
     "start": "node server.js",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false"
   },
-  "author": "shahriar Sajeeb",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
